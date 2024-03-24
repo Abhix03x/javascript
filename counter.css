@@ -1,0 +1,21 @@
+#cl{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    
+}
+#con{
+    text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(107, 166, 234);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.btn:hover{
+    background-color: rgb(44, 44, 143);
+}
